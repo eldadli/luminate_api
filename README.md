@@ -19,7 +19,7 @@ This library implements subset of the API
 
 * Create a new API Client through Luminate Administration Portal
 
-* Create new Lumiinate Instance with the provided key and secret from the portal
+* Create new Luminate Instance with the provided key and secret from the portal
 
 ## Contribute
 
